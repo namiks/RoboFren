@@ -1,4 +1,6 @@
 {
-    "token": "DISCORD_TOKEN",
-    "main": "robofren.js"
+    "type": "module",
+    "token": "DISCORD-TOKEN",
+    "clientId": "CLI-ID",
+    "guildId": "SERV-ID"
 }
